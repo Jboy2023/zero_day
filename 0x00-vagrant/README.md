@@ -1,0 +1,1 @@
+This directory contains a file that is written the answer of what the command uname prints when run in ubuntu VM without any option
